@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhpTravelUI", "PhpTravelUI.csproj", "{AB87DDE0-3E05-4818-8F5E-C5CCBDF107C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhpTravelTests", "PhpTravelTests\PhpTravelTests.csproj", "{29D01D85-0EE1-467F-A739-E63E51DF92CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhpTravelCore", "PhpTravelCore\PhpTravelCore.csproj", "{01532402-8BB4-4D42-B27C-9ABBE8846272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB87DDE0-3E05-4818-8F5E-C5CCBDF107C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB87DDE0-3E05-4818-8F5E-C5CCBDF107C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB87DDE0-3E05-4818-8F5E-C5CCBDF107C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB87DDE0-3E05-4818-8F5E-C5CCBDF107C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D01D85-0EE1-467F-A739-E63E51DF92CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D01D85-0EE1-467F-A739-E63E51DF92CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D01D85-0EE1-467F-A739-E63E51DF92CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D01D85-0EE1-467F-A739-E63E51DF92CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01532402-8BB4-4D42-B27C-9ABBE8846272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01532402-8BB4-4D42-B27C-9ABBE8846272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01532402-8BB4-4D42-B27C-9ABBE8846272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01532402-8BB4-4D42-B27C-9ABBE8846272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B902D5E9-7CE9-4095-A7B6-8F88EE7ECB74}
+	EndGlobalSection
+EndGlobal
